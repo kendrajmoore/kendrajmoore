@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align ="center">I'm Kendra Moore</h1>
+<h1 align ="center">Hi there 👋, I'm Kendra Moore</h1>
 
 <div align = "left" width = 50%>
 <h2>About ME </h2>
