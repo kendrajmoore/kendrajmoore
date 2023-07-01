@@ -43,5 +43,5 @@
 
 ----
 
-Credit: [KendraMoore](https://github.com/kendrajmoore)  
+Credit: [Kendra Moore](https://github.com/kendrajmoore)  
 Last Edited on: 07/01/2023 
