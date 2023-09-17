@@ -96,19 +96,10 @@
 
 <br/>  
 
-
+<summary><b>  Statistics  </b></summary>
+<div align="center">
 ## Github Stats  
 ![Kendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrajmoore&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
@@ -117,8 +108,7 @@
 </div>  
   
 
-<br/>  
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kendrajmoore)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
