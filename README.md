@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Kendra, a full-time software engineer 👨‍💻 🚀</div>  
+### <div align="center">I'm Kendra👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently mastering C and C++  
@@ -98,19 +98,19 @@
 
 <summary><b>  Statistics  </b></summary>
 <div align="center">
+  
 ## Github Stats  
-![Kendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrajmoore&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrajmoore)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kendrajmoore&&style=flat-square" align="center" />
-</div>  
-  
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kendrajmoore)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kendrajmoore&&style=flat-square" align="center" />
+</div>  
+  
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
