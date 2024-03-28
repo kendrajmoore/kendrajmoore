@@ -100,7 +100,7 @@
 <div align="center">
   
 ## Github Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrajmoore)](https://github.com/anuraghazra/github-readme-stats)
+[![Kendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrajmoore)](https://github.com/kendrajmoore/github-readme-stats)
 
 
 <br />
