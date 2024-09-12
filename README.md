@@ -1,12 +1,9 @@
 ### <div align="center">Hi, I'm Kendra 👩🏿 🚀</div> 
 
 # 💫 About Me:
-- 🔭 Making a programming YouTube channel
-- 💻 Open source projects
-- 🎛️ Working on weekend embedded projects
-- 📟 Embedding programming
-- 🕹️Ardunio
-- ✈️ I lived in Estonia for a year
+- 💻 I contribute to open-source projects
+- 📟 I enjoy embedded programming
+- ✈️ Fun Fact: I lived in Estonia for a year
 
 
 ## 🌐 Socials:
